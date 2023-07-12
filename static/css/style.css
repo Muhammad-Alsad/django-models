@@ -4,8 +4,10 @@ body{
 
 h1{
     color: blueviolet;
+    text-decoration: none;
 }
 
 h2{
     color: rgb(235, 10, 160);
+    text-decoration: none;
 }
